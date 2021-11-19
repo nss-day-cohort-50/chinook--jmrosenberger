@@ -1,3 +1,6 @@
 SELECT *
 FROM Customer
-WHERE Country = "Brazil"
+WHERE Country = "Brazil";
+
+SELECT *
+FROM Invoice
